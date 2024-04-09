@@ -1,7 +1,7 @@
 {
     "name": "PepeBurp",
     "description":"1,000 Burping Pepe frogs gorged on fireflies in a chain based on ERC404.",
-    "image": "ipfs://QmTvbPaD4amLrZY1SfYJehexBvKzJnKVUqeicPeNLRGYwm",
+    "image": "https://ipfs.io/ipfs/QmTvbPaD4amLrZY1SfYJehexBvKzJnKVUqeicPeNLRGYwm",
     "external_url":"https://pepeburp.com",
     "attributes": [
       {
